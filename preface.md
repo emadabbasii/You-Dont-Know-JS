@@ -64,22 +64,22 @@
 
 ماموریت من با YDKJSY این است که به هر توسعه‌دهنده JavaScript این قدرت را بدهم که به‌طور کامل مالک کدی که می‌نویسد باشد، آن را بفهمد و با هدف و وضوح بنویسد.
 
-## The Path
+## مسیر کتاب
 
-Some of you have started reading this book with the goal of completing all six books, back to back.
+برخی از شما این کتاب را با هدف خواندن همه شش کتاب به‌صورت پشت سر هم شروع کرده‌اید.
 
-I would like to caution you to consider changing that plan.
+من می‌خواهم شما را به تجدید نظر در این برنامه ترغیب کنم.
 
-It is not my intention that YDKJSY be read straight through. The material in these books is dense, because JavaScript is powerful, sophisticated, and in parts rather complex. Nobody can really hope to *download* all this information to their brains in a single pass and retain any significant amount of it. That's unreasonable, and it's foolish to try.
+هدف من این نیست که YDKJSY به‌صورت مستقیم و بدون توقف خوانده شود. مطالب در این کتاب‌ها فشرده و پرمحتوا هستند، زیرا JavaScript قدرتمند، پیچیده و در برخی بخش‌ها بسیار پیچیده است. هیچ‌کس نمی‌تواند امیدوار باشد که همه این اطلاعات را در یک بار مطالعه به ذهن بسپارد و بخش قابل توجهی از آن را حفظ کند. این غیرمنطقی است و تلاش برای این کار ناپسند است.
 
-My suggestion is you take your time going through YDKJSY. Take one chapter, read it completely through start to finish, and then go back and re-read it section by section. Stop in between each section, and practice the code or ideas from that section. For larger concepts, it probably is a good idea to expect to spend several days digesting, re-reading, practicing, then digesting some more.
+پیشنهاد من این است که به آهستگی به مطالعه YDKJSY بپردازید. یک فصل را بگیرید، آن را به‌طور کامل از ابتدا تا انتها بخوانید، و سپس دوباره آن را بخش به بخش مرور کنید. بین هر بخش مکث کنید و کدها یا ایده‌های آن بخش را تمرین کنید. برای مفاهیم بزرگ‌تر، احتمالاً بهتر است انتظار داشته باشید که چند روزی را به هضم، مرور، تمرین و سپس هضم بیشتر اختصاص دهید.
 
-You could spend a week or two on each chapter, and a month or two on each book, and a year or more on the whole series, and you would still not be squeezing every ounce of YDKJSY out.
+می‌توانید یک یا دو هفته را روی هر فصل، و یک یا دو ماه را روی هر کتاب صرف کنید و بیش از یک سال را روی کل مجموعه بگذارید و همچنان تمام محتوای YDKJSY را استخراج نکنید.
 
-Don't binge these books; be patient and spread out your reading. Interleave reading with lots of practice on real code in your job or on projects you participate in. Wrestle with the opinions I've presented along the way, debate with others, and most of all, disagree with me! Run a study group or book club. Teach mini-workshops at your office. Write blog posts on what you've learned. Speak about these topics at local JS meetups.
+این کتاب‌ها را به‌سرعت و بدون مکث نخوانید؛ صبور باشید و خواندن را پخش کنید. مطالعه را با تمرین زیاد بر روی کدهای واقعی در کار یا پروژه‌هایی که در آن‌ها شرکت می‌کنید، ترکیب کنید. با نظراتی که در طول راه ارائه کرده‌ام کلنجار بروید، با دیگران بحث کنید و مهم‌تر از همه، با من مخالفت کنید! یک گروه مطالعاتی یا باشگاه کتاب برگزار کنید. کارگاه‌های کوچک در دفتر خود برگزار کنید. مطالبی که آموخته‌اید را در وبلاگ خود بنویسید. در جلسات محلی JavaScript در مورد این موضوعات صحبت کنید.
 
-It's never my goal to convince you to agree with my opinion, but to encourage you to own and be able to defend your opinions. You can't get *there* with an expedient read-through of these books. That's something that takes a long while to emerge, little by little, as you study and ponder and re-visit.
+هدف من هرگز این نیست که شما را متقاعد کنم که با نظر من موافق باشید، بلکه این است که شما را تشویق کنم تا نظرات خود را داشته باشید و بتوانید از آن‌ها دفاع کنید. نمی‌توانید با یک مطالعه سریع و بی‌وقفه به این هدف برسید. این چیزی است که به مرور زمان، با مطالعه، تأمل و مرور دوباره به‌تدریج به‌دست می‌آید.
 
-These books are meant to be a field-guide on your wanderings through JavaScript, from wherever you currently are with the language, to a place of deeper understanding. And the deeper you understand JS, the more questions you will ask and the more you will have to explore! That's what I find so exciting!
+این کتاب‌ها قرار است راهنمایی باشند برای گشت‌وگذار شما در JavaScript، از هرجایی که در حال حاضر با این زبان هستید، به مکانی با درک عمیق‌تر. و هرچه بیشتر JavaScript را بفهمید، بیشتر سوال خواهید پرسید و بیشتر مجبور خواهید بود که به کاوش بپردازید! این چیزی است که من را هیجان‌زده می‌کند!
 
-I'm so glad you're embarking on this journey, and I am so honored you would consider and consult these books along the way. It's time to start *getting to know JS*.
+من از اینکه در این سفر شروع کرده‌اید بسیار خوشحالم و افتخار می‌کنم که این کتاب‌ها را در مسیر خود مورد توجه و مشورت قرار می‌دهید. اکنون زمان آن رسیده که با JavaScript بیشتر آشنا شوید.
