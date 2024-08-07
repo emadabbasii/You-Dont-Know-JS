@@ -20,7 +20,7 @@
 
 حتی اگر قبلاً کدهای زیادی با JavaScript نوشته‌ای، نباید این کتاب را سرسری بخوانی یا از آن بگذری؛ وقت بگذار تا به طور کامل مطالب آن را پردازش کنی. یک شروع خوب همیشه به یک قدم اول محکم وابسته است.
 
-## What's With That Name?
+## این اسم چه معنایی دارد؟
 
 The name JavaScript is probably the most mistaken and misunderstood programming language name.
 
@@ -44,13 +44,13 @@ Further distancing the language from the Oracle-owned trademark, the official na
 
 In other words, the JavaScript/JS that runs in your browser or in Node.js, is *an* implementation of the ES2019 standard.
 
-| NOTE: |
+| نکته: |
 | :--- |
-| Don't use terms like "JS6" or "ES8" to refer to the language. Some do, but those terms only serve to perpetuate confusion. "ES20xx" or just "JS" are what you should stick to. |
+| از اصطلاحاتی مانند "JS6" یا "ES8" برای اشاره به این زبان استفاده نکنید. برخی این کار را می‌کنند، اما این اصطلاحات فقط به ادامه دادن سردرگمی کمک می‌کنند. "ES20xx" یا فقط "JS" چیزهایی هستند که باید به آن‌ها پایبند باشید. |
 
-Whether you call it JavaScript, JS, ECMAScript, or ES2019, it's most definitely not a variant of the Java language!
+چه آن را JavaScript بنامید، JS، ECMAScript یا ES2019، قطعاً یک نوع از زبان Java نیست!
 
-> "Java is to JavaScript as ham is to hamster." --Jeremy Keith, 2009
+> "Java و JavaScript به همان اندازه به هم مرتبط‌اند که گوشت خوک به همستر." --Jeremy Keith, 2009
 
 ## Language Specification
 
