@@ -1,31 +1,32 @@
-# You Don't Know JS Yet - 2nd Edition
-# Preface
+# هنوز JS را نمی شناسید: - نسخه دوم
+# پیشگفتار
 
-Welcome to the 2nd edition of the widely acclaimed *You Don't Know JS* (**YDKJS**) book series: *You Don't Know JS **Yet*** (**YDKJSY**).
+به نسخه دوم از مجموعه کتاب‌های بسیار تحسین‌شده You Don't Know JS (YDKJS) خوش آمدی: You Don't Know JS Yet (YDKJSY).
 
-If you've read any of the 1st edition books, you can expect a refreshed approach in these new ones, with plenty of updated coverage of what's changed in JS over the last five years. But what I hope and believe you'll still *get* is the same commitment to respecting JS and digging into what really makes it tick.
+اگر کتاب‌های نسخه اول را خوانده‌ای، می‌توانی انتظار یک رویکرد تازه را در این کتاب‌های جدید داشته باشی، همراه با پوشش به‌روز از تغییراتی که در JavaScript طی پنج سال گذشته رخ داده است. اما آنچه که امیدوارم و باور دارم همچنان در این نسخه‌ها به دست خواهی آورد، همان تعهد به احترام گذاشتن به JavaScript و کاوش عمیق در آنچه واقعاً این زبان را به حرکت درمی‌آورد، است.
 
-If this is your first time reading these books, I'm glad you're here. Prepare for a deep and extensive journey into all the corners of JavaScript.
+اگر این اولین باری است که این کتاب‌ها را می‌خوانی، خوشحالم که اینجا هستی. آماده شو برای یک سفر عمیق و گسترده به تمام زوایای JavaScript.
 
-If you are new to programming or JS, be aware that these books are not intended as a gentle "intro to JavaScript." This material is, at times, complex and challenging, and goes much deeper than is typical for a first-time learner. You're welcome here no matter what your background is, but these books are written assuming you're already comfortable with JS and have at least 6–9 months experience with it.
+اگر تازه‌کار هستی یا به JavaScript تازه وارد شده‌ای، بدان که این کتاب‌ها به‌عنوان یک "مقدمه ملایم به JavaScript" در نظر گرفته نشده‌اند. این مطالب، گاهی پیچیده و چالش‌برانگیز هستند و به‌مراتب عمیق‌تر از آن چیزی می‌روند که معمولاً برای یک مبتدی مناسب است. فارغ از پیش‌زمینه‌ات، اینجا خوش آمدی، اما این کتاب‌ها با این فرض نوشته شده‌اند که تو از قبل با JavaScript راحت هستی و حداقل ۶ تا ۹ ماه تجربه کار با آن را داری.
 
-## The Parts
+## بخش های کتاب
 
-These books approach JavaScript intentionally opposite of how *The Good Parts* treats the language. No, that doesn't mean we're looking at *the bad parts*, but rather, exploring **all the parts**.
+این کتاب‌ها به عمد به شیوه‌ای مخالف با کتاب The Good Parts با JavaScript برخورد می‌کنند. نه، این به این معنی نیست که ما به دنبال بخش‌های بد هستیم، بلکه به دنبال بررسی همه بخش‌ها هستیم.
 
-You may have been told, or felt yourself, that JS is a deeply flawed language that was poorly designed and inconsistently implemented. Many have asserted that it's the worst most popular language in the world; that nobody writes JS because they want to, only because they have to given its place at the center of the web. That's a ridiculous, unhealthy, and wholly condescending claim.
+ممکن است به تو گفته باشند، یا خودت احساس کرده باشی که JavaScript یک زبان به شدت ناقص است که به‌طور ضعیفی طراحی شده و به‌طور ناسازگاری پیاده‌سازی شده است. بسیاری ادعا کرده‌اند که این بدترین زبان محبوب در جهان است؛ که هیچ‌کس JavaScript نمی‌نویسد چون می‌خواهد، بلکه فقط به این دلیل است که مجبور است، با توجه به جایگاه آن در مرکز وب. این یک ادعای مضحک، ناسالم و کاملاً تحقیرآمیز است.
 
-Millions of developers write JavaScript every day, and many of them appreciate and respect the language.
+میلیون‌ها توسعه‌دهنده هر روز JavaScript می‌نویسند و بسیاری از آن‌ها این زبان را می‌پسندند و به آن احترام می‌گذارند.
 
-Like any great language, it has its brilliant parts as well as its scars. Even the creator of JavaScript himself, Brendan Eich, laments some of those parts as mistakes. But he's wrong: they weren't mistakes at all. JS is what it is today—the world's most ubiquitous and thus most influential programming language—precisely because of *all those parts*.
+مانند هر زبان بزرگی، JavaScript نیز بخش‌های درخشان و همچنین نقاط ضعف خود را دارد. حتی خود خالق JavaScript، Brendan Eich، از برخی از این بخش‌ها به‌عنوان اشتباه یاد می‌کند. اما او اشتباه می‌کند: این‌ها اصلاً اشتباه نبوده‌اند. JavaScript امروز دقیقاً به خاطر تمام آن بخش‌ها، به پراستفاده‌ترین و در نتیجه تأثیرگذارترین زبان برنامه‌نویسی در جهان تبدیل شده است.
 
-Don't buy the lie that you should only learn and use a small collection of *good parts* while avoiding all the bad stuff. Don't buy the "X is the new Y" snake oil, that some new feature of the language instantly relegates all usage of a previous feature as obsolete and ignorant. Don't listen when someone says your code isn't "modern" because it isn't yet using a stage-0 feature that was only proposed a few weeks ago!
+این دروغ را باور نکن که باید فقط یک مجموعه کوچک از بخش‌های خوب را یاد بگیری و استفاده کنی و از تمام چیزهای بد اجتناب کنی. باور نکن که ویژگی جدیدی در زبان فوراً تمام استفاده از یک ویژگی قدیمی‌تر را به‌عنوان منسوخ و ناآگاهانه کنار می‌گذارد. گوش نده وقتی کسی می‌گوید کد تو "مدرن" نیست چون هنوز از یک ویژگی stage-0 که تنها چند هفته پیش پیشنهاد شده استفاده نمی‌کند!
 
-Every part of JS is useful. Some parts are more useful than others. Some parts require you to be more careful and intentional.
+هر بخشی از JavaScript مفید است. برخی بخش‌ها بیشتر از بقیه بخش ها مفیدند. برخی بخش‌ها نیاز دارند که با دقت و هدف‌گذاری بیشتری استفاده شوند.
 
-I find it absurd to try to be a truly effective JavaScript developer while only using a small sliver of what the language has to offer. Can you imagine a construction worker with a toolbox full of tools, who only uses their hammer and scoffs at the screwdriver or tape measure as inferior? That's just silly.
+من این را بی‌معنی می‌دانم که بخواهی یک توسعه‌دهنده JavaScript واقعاً مؤثر باشی در حالی که فقط از یک قسمت کوچک از آنچه این زبان ارائه می‌دهد، استفاده می‌کنی. آیا می‌توانی یک کارگر ساختمانی را تصور کنی که جعبه‌ابزاری پر از ابزار دارد، اما فقط از چکش خود استفاده می‌کند و به پیچ‌گوشتی یا متر به‌عنوان ابزارهای کم‌ارزش‌تر نگاه می‌کند؟ این کاملاً مضحک است.
 
-My unreserved claim is that you should go about learning all parts of JavaScript, and where appropriate, use them! And if I may be so bold as to suggest: it's time to discard any JS books that tell you otherwise.
+ادعای بدون تردید من این است که باید تمام بخش‌های JavaScript را یاد بگیری و در صورت لزوم از آن‌ها استفاده کنی! و اگر اجازه بدهی که پیشنهاد جسورانه‌ای بدهم: زمان آن رسیده که هر کتابی از JavaScript را که چیز دیگری می‌گوید، کنار بگذاری.
+
 
 ## The Title?
 
