@@ -28,25 +28,25 @@
 ادعای بدون تردید من این است که باید تمام بخش‌های JavaScript را یاد بگیری و در صورت لزوم از آن‌ها استفاده کنی! و اگر اجازه بدهی که پیشنهاد جسورانه‌ای بدهم: زمان آن رسیده که هر کتابی از JavaScript را که چیز دیگری می‌گوید، کنار بگذاری.
 
 
-## The Title?
+## عنوان کتاب؟
 
-So what's the title of the series all about?
+پس عنوان این مجموعه به چه معناست؟
 
-I'm not trying to insult you with criticism about your current lack of knowledge or understanding of JavaScript. I'm not suggesting you can't or won't be able to learn JavaScript. I'm not boasting about secret advanced insider wisdom that I and only a select few possess.
+من قصد ندارم با انتقاد از نداشتن دانش یا فهم فعلی تو درباره JavaScript، به تو توهین کنم. نمی‌خواهم بگویم که نمی‌توانی یا قادر نخواهی بود JavaScript را یاد بگیری. نمی‌خواهم از دانشی پنهان و پیشرفته که تنها من و عده‌ای معدود از آن برخوردارند، لاف بزنم.
 
-Seriously, all those were real reactions to the original series title before folks even read the books. And they're baseless.
+واقعاً، همه این‌ها واکنش‌های واقعی به عنوان سری اصلی بودند، حتی قبل از اینکه مردم کتاب‌ها را بخوانند. و این واکنش‌ها بی‌اساس بودند.
 
-The primary point of the title "You Don't Know JS Yet" is to point out that most JS developers don't take the time to really understand how the code that they write works. They know *that* it works—that it produces a desired outcome. But they either don't understand exactly *how*, or worse, they have an inaccurate mental model for the *how* that falters on closer scrutiny.
+نکته اصلی عنوان "You Don't Know JS Yet" این است که به این موضوع اشاره کنیم که اکثر توسعه‌دهندگان JavaScript وقت کافی نمی‌گذارند تا واقعاً بفهمند کدی که می‌نویسند چطور کار می‌کند. آن‌ها می‌دانند که کد کار می‌کند—که نتیجه دلخواه را تولید می‌کند. اما یا دقیقاً نمی‌فهمند که چگونه، یا بدتر از آن، یک مدل ذهنی نادرست از نحوه کار دارند که با بررسی دقیق‌تر فرو می‌ریزد.
 
-I'm presenting a gentle but earnest challenge to you the reader, to set aside the assumptions you have about JS, and approach it with fresh eyes and an invigorated curiosity that leads you to ask *why* for every line of code you write. Why does it do what it does? Why is one way better or more appropriate than the other half-dozen ways you could have accomplished it? Why do all the "popular kids" say to do X with your code, but it turns out that Y might be a better choice?
+من یک چالش ملایم اما صادقانه را به تو، خواننده، ارائه می‌کنم تا فرضیات خود درباره JavaScript را کنار بگذاری و با دیدی تازه و کنجکاوی پرانرژی به آن نگاه کنی و برای هر خط کدی که می‌نویسی بپرسی چرا. چرا این کد آنچه انجام می‌دهد را انجام می‌دهد؟ چرا یک روش بهتر یا مناسب‌تر از نیم‌ دوجین روش دیگری است که می‌توانستی به کار بگیری؟ چرا همه "بچه‌های محبوب" می‌گویند با کد خود X را انجام بده، اما به نظر می‌رسد Y ممکن است انتخاب بهتری باشد؟
 
-I added "Yet" to the title, not only because it's the second edition, but because ultimately I want these books to challenge you in a hopeful rather than discouraging way.
+من "Yet" را به عنوان کتاب اضافه کردم، نه تنها به این دلیل که این نسخه دوم است، بلکه چون در نهایت می‌خواهم این کتاب‌ها تو را به شیوه‌ای امیدوارکننده به چالش بکشند، نه دلسردکننده.
 
-But let me be clear: I don't think it's possible to ever fully *know* JS. That's not an achievement to be obtained, but a goal to strive after. You don't finish knowing everything about JS, you just keep learning more and more as you spend more time with the language. And the deeper you go, the more you revisit what you *knew* before, and you re-learn it from that more experienced perspective.
+اما اجازه بده واضح بگویم: من فکر نمی‌کنم که ممکن باشد JavaScript را به‌طور کامل بشناسی. این یک دستاورد نیست که بتوانی به آن دست یابی، بلکه هدفی است که باید به‌دنبال آن باشی. تو کار را با دانستن همه چیز درباره JavaScript تمام نمی‌کنی، بلکه هرچه بیشتر با این زبان زمان صرف می‌کنی، بیشتر و بیشتر یاد می‌گیری. و هرچه عمیق‌تر می‌روی، بیشتر به آنچه قبلاً می‌دانستی برمی‌گردی و آن را از دیدگاهی باتجربه‌تر دوباره یاد می‌گیری.
 
-I encourage you to adopt a mindset around JavaScript, and indeed all of software development, that you will never fully have mastered it, but that you can and should keep working to get closer to that end, a journey that will stretch for the entirety of your software development career, and beyond.
+من تشویقت می‌کنم که یک طرز فکر در مورد JavaScript و به‌طور کلی توسعه نرم‌افزار بپذیری، که هرگز نمی‌توانی به‌طور کامل آن را تسلط یابی، اما می‌توانی و باید تلاش کنی که به آن نزدیک‌تر شوی؛ سفری که برای تمام دوران حرفه‌ای توسعه نرم‌افزار تو و حتی فراتر از آن ادامه خواهد داشت.
 
-You can always know JS better than you currently do. That's what I hope these YDKJSY books represent.
+تو همیشه می‌توانی JavaScript را بهتر از آنچه اکنون می‌دانی، بشناسی. این چیزی است که امیدوارم این کتاب‌های YDKJSY نمایانگر آن باشند
 
 ## The Mission
 
