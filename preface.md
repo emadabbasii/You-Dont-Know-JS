@@ -48,21 +48,21 @@
 
 تو همیشه می‌توانی JavaScript را بهتر از آنچه اکنون می‌دانی، بشناسی. این چیزی است که امیدوارم این کتاب‌های YDKJSY نمایانگر آن باشند
 
-## The Mission
+## ماموریت کتاب
 
-The case doesn't really need to be made for why developers should take JS seriously—I think it's already more than proven worthy of first-class status among the world's programming languages.
+نیازی به ارائه دلایل برای اینکه چرا توسعه‌دهندگان باید JavaScript را جدی بگیرند، وجود ندارد—فکر می‌کنم این زبان بیشتر از آن ثابت کرده که لایق جایگاه ویژه‌ای در میان زبان‌های برنامه‌نویسی جهان است.
 
-But a different, more important case still needs to be made, and these books rise to that challenge.
+اما یک موضوع متفاوت و مهم‌تر هنوز نیاز به توجه دارد، و این کتاب‌ها به چالش پاسخ می‌دهند.
 
-I've taught more than 5,000 developers from teams and companies all over the world, in more than 25 countries on six continents. And what I've seen is that far too often, what *counts* is generally just the result of the program, not how the program is written or how/why it works.
+من به بیش از ۵۰۰۰ توسعه‌دهنده از تیم‌ها و شرکت‌های مختلف در سراسر جهان، در بیش از ۲۵ کشور و در شش قاره، آموزش داده‌ام. و آنچه مشاهده کرده‌ام این است که اغلب اوقات، آنچه که اهمیت دارد، فقط نتیجه نهایی برنامه است، نه اینکه برنامه چگونه نوشته شده یا چرا و چگونه کار می‌کند.
 
-My experience not only as a developer but in teaching many other developers tells me: you will always be more effective in your development work if you more completely understand how your code works than you are solely *just* getting it to produce a desired outcome.
+تجربه من، نه تنها به‌عنوان یک توسعه‌دهنده، بلکه در آموزش بسیاری از توسعه‌دهندگان دیگر به من می‌گوید: همیشه در کار توسعه‌ای خود مؤثرتر خواهی بود اگر بهتر بفهمی کدی که می‌نویسی چگونه کار می‌کند، نه اینکه فقط نتیجه دلخواه را تولید کنی.
 
-In other words, *good enough to work* is not, and should not be, *good enough*.
+به عبارت دیگر، اینکه کد فقط به‌خوبی کار کند، کافی نیست و نباید کافی باشد.
 
-All developers regularly struggle with some piece of code not working correctly, and they can't figure out why. But far too often, JS developers will blame this on the language rather than admitting it's their own understanding that is falling short. These books serve as both the question and answer: why did it do *this*, and here's how to get it to do *that* instead.
+همه توسعه‌دهندگان به‌طور منظم با کدی که به‌درستی کار نمی‌کند، دست‌وپنجه نرم می‌کنند و نمی‌توانند بفهمند چرا. اما خیلی اوقات، توسعه‌دهندگان JavaScript این مشکل را به گردن زبان می‌اندازند، نه اینکه بپذیرند فهم خودشان ناقص است. این کتاب‌ها به‌عنوان هم سوال و هم جواب عمل می‌کنند: چرا کد این کار را انجام داد، و اینجا است که چطور می‌توانی آن را به‌جای آن، به روش دیگری انجام دهی.
 
-My mission with YDKJSY is to empower every single JS developer to fully own the code they write, to understand it and to write with intention and clarity.
+ماموریت من با YDKJSY این است که به هر توسعه‌دهنده JavaScript این قدرت را بدهم که به‌طور کامل مالک کدی که می‌نویسد باشد، آن را بفهمد و با هدف و وضوح بنویسد.
 
 ## The Path
 
