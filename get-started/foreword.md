@@ -1,23 +1,23 @@
-# You Don't Know JS Yet: Get Started - 2nd Edition
-# Foreword
+# هنوز JS را نمی شناسید: شروع کنید - نسخه دوم
+# پیشگفتار
 
-The first time I saw a tweet advertising the crowdfunding campaign for the original book series *You Don't Know JS*, I thought to myself that whoever the hell this Kyle Simpson is can get bent. Of course I know JavaScript! At the time I had been working in JavaScript for many years with some of tech's biggest names, so I felt justified in looking down my nose at this sweeping claim.
+اولین باری که توییتی تبلیغاتی درباره کمپین تأمین مالی مجموعه کتاب‌های اصلی *You Don't Know JS* دیدم، با خودم فکر کردم که هر که این Kyle Simpson هست می‌تواند خودش را جمع کند! البته که من JavaScript را می‌شناسم! در آن زمان، من سال‌ها با برخی از بزرگ‌ترین نام‌های دنیای فناوری با JavaScript کار کرده بودم، بنابراین احساس می‌کردم که حق دارم به این ادعای گسترده نگاه از بالا داشته باشم.
 
-Once the funding for the book completed, I observed that a lot of people were really excited to read this book series and I decided to go ahead and give it a shot—you know, just to show everyone that I *do know* JavaScript. Once I dug in and poured over the texts, I experienced a profound mix of learning, surprise, and even a little anger. Kyle has a knack for saying something that challenges my world view and making me think about it until I realize what he said was actually true (I'll never admit this to him though!).
+وقتی که تأمین مالی برای این کتاب کامل شد، مشاهده کردم که بسیاری از افراد واقعاً هیجان‌زده بودند تا این مجموعه کتاب‌ها را بخوانند، بنابراین تصمیم گرفتم که آن را امتحان کنم—می‌دانید، فقط برای اینکه به همه نشان دهم که من JavaScript را می‌دانم. وقتی که عمیق‌تر شدم و متن‌ها را مطالعه کردم، یک ترکیب عمیق از یادگیری، شگفتی، و حتی کمی عصبانیت را تجربه کردم. Kyle توانایی خاصی دارد که چیزی بگوید که دیدگاه جهان‌بینی من را به چالش بکشد و مرا وادار کند تا به آن فکر کنم تا وقتی که بفهمم چیزی که گفته در واقع درست بوده (البته هرگز این را به او اعتراف نمی‌کنم!).
 
-So it turned out I didn't know JavaScript. I didn't know why I had adopted certain patterns; I didn't know why JavaScript behaves the way it does in certain situations, and I didn't know much of the nuance of the languages that I assumed I did. Many were things I didn't know I didn't know, and I was worse off as a developer for it.
+بنابراین، معلوم شد که من JavaScript را نمی‌دانستم. نمی‌دانستم چرا الگوهای خاصی را پذیرفته‌ام؛ نمی‌دانستم چرا JavaScript در موقعیت‌های خاصی به گونه‌ای رفتار می‌کند که من انتظار نداشتم، و خیلی از جزئیات این زبان را که فکر می‌کردم می‌دانم، نمی‌دانستم. بسیاری از این‌ها چیزهایی بودند که نمی‌دانستم که نمی‌دانم، و این باعث می‌شد که به‌عنوان یک توسعه‌دهنده وضعیتم بدتر شود.
 
-This is what this book series is great for. It's not just for someone picking up the language for the first time (though it's for them, too); it's for all software craftspeople who want to master their tools, who want to understand the ins and outs of their trade, and who want to select the proper methods for solving problems.
+این همان چیزی است که این مجموعه کتاب‌ها برای آن عالی است. این کتاب‌ها فقط برای کسی که اولین بار است زبان را یاد می‌گیرد نیست (هرچند برای آن‌ها هم مفید است)؛ بلکه برای همه کسانی است که می‌خواهند به استادکاری در ابزارهای خود برسند، که می‌خواهند زیر و بم کار خود را بفهمند و که می‌خواهند روش‌های مناسبی برای حل مسائل انتخاب کنند.
 
-The thing I appreciate about Kyle and his work is that he is delightfully uninfluenced by the zeitgeist of the programming world around him. That isn't to say he isn't aware of what's happening in the community but rather that it doesn't sway his pursuit of the best answers to the correct questions. This often has put him at odds with the latest "best practices," but in reality this is exactly what you need: a perspective removed from temporal influence and simply speaking to the underlying truth. That's why this series is so good. The first edition of *You Don't Know JS* is still accurate, years later! Not many things stand this test of time given the shifting sands of the JavaScript landscape.
+چیزی که در مورد Kyle و کارش تحسین می‌کنم این است که او به طرز لذت‌بخشی تحت تأثیر فضای فرهنگی دنیای برنامه‌نویسی اطراف خود قرار نمی‌گیرد. این به این معنا نیست که او از آنچه در جامعه برنامه‌نویسی می‌گذرد بی‌خبر است، بلکه به این معناست که این مسائل او را از جستجوی بهترین پاسخ‌ها به سؤالات درست بازنمی‌دارد. این موضوع اغلب او را در تضاد با آخرین "بهترین شیوه‌ها" قرار داده است، اما در واقعیت، این همان چیزی است که شما نیاز دارید: دیدگاهی که از تأثیرات موقت رها باشد و صرفاً به حقیقت اساسی بپردازد. به همین دلیل این مجموعه کتاب‌ها عالی است. نسخه اول *You Don't Know JS* هنوز هم پس از سال‌ها دقیق است! خیلی چیزها نمی‌توانند در مقابل تغییرات مداوم در چشم‌انداز JavaScript، از این آزمون زمان عبور کنند.
 
-Let's talk a moment about this first book itself, *Get Started*. You may be tempted to skip it as you may think that you already have "gotten started," but it's worth reading this one! You'd be surprised how much depth, nuance, and oddity there is in the underlying building blocks of JavaScript, and it's quite essential for you to grapple with these underpinnings before venturing forward into the constructs of the language. It's exactly the sort of foundation you need, to really know JavaScript.
+بیایید کمی درباره خود این کتاب اول، *Get Started* صحبت کنیم. ممکن است وسوسه شوید که از آن عبور کنید چون فکر می‌کنید که قبلاً "شروع کرده‌اید"، اما خواندن این کتاب ارزش دارد! شاید تعجب کنید که چقدر عمق، ظرافت، و شگفتی در زیرساخت‌های بنیادی JavaScript وجود دارد، و بسیار ضروری است که قبل از حرکت به سمت ساختارهای زبان، با این مبانی درگیر شوید. این دقیقاً همان بنیادی است که برای واقعاً شناختن JavaScript به آن نیاز دارید.
 
-So, do your future self a favor and dig into this book and unlock the knowledge within. These solid foundations will serve you better than any framework ever will; those come and go but we'll still be writing JavaScript itself for decades to come. Keep an open mind and challenge your preconceived notions.
+پس به خود آینده‌ات لطفی کن و در این کتاب غرق شو و دانشی که در آن نهفته است را باز کن. این بنیادهای محکم به تو بهتر از هر فریموورکی خدمت خواهند کرد؛ فریمورک‌ها می‌آیند و می‌روند اما ما هنوز هم برای دهه‌های آینده JavaScript خواهیم نوشت. ذهن باز داشته باش و تصورات قبلی خود را به چالش بکش.
 
-Because, as I found out myself, you probably don't know JavaScript (yet).
+چون، همانطور که خودم متوجه شدم، احتمالاً هنوز JavaScript را نمی‌دانی. 
 
-Brian Holt<br>
-Senior Program Manager<br>
-Visual Studio Code and Node.js on Azure<br>
+Brian Holt
+مدیر ارشد برنامه‌ریزی
+Visual Studio Code و Node.js در Azure
 Microsoft
