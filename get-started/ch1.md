@@ -1,11 +1,11 @@
-# You Don't Know JS Yet: Get Started - 2nd Edition
-# Chapter 1: What *Is* JavaScript?
+# هنوز JS را نمی شناسید: شروع کنید - نسخه دوم
+# # فصل 1: جاوا اسکریپت * چیست؟
 
-You don't know JS, yet. Neither do I, not fully anyway. None of us do. But we can all start getting to know JS better.
+تو هنوز JavaScript رو نمی‌شناسی. من هم همین‌طور، حداقل به‌طور کامل نه. هیچ‌کدام از ما به‌طور کامل آن را نمی‌شناسیم. اما همه ما می‌توانیم شروع کنیم به شناختن JavaScript.
 
-In this first chapter of the first book of the *You Don't Know JS Yet* (YDKJSY) series, we will take some time to build a foundation to move forward on. We need to start by covering a variety of important background housekeeping details, clearing up some myths and misconceptions about what the language really is (and isn't!).
+در این فصل اول از اولین کتاب مجموعه You Don't Know JS Yet (YDKJSY)، زمانی را اختصاص خواهیم داد تا پایه‌ای برای حرکت به جلو بسازیم. ما باید با پوشش دادن انواع جزئیات مهم پس‌زمینه، برخی افسانه‌ها و تصورات غلط راجع به این‌که زبان واقعاً چیست (و چه نیست!) شروع کنیم.
 
-This is valuable insight into the identity and process of how JS is organized and maintained; all JS developers should understand it. If you want to get to know JS, this is how to *get started* taking the first steps in that journey.
+این دیدگاه ارزشمندی در مورد هویت و فرآیند چگونگی سازماندهی و نگهداری JavaScript است؛ همه توسعه‌دهندگان JavaScript باید آن را درک کنند. اگر می‌خواهی JavaScript را بشناسی، این همان راهی است که باید برای برداشتن اولین قدم‌های این سفر شروع کنی.
 
 ## About This Book
 
