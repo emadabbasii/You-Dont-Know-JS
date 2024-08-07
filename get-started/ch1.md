@@ -22,27 +22,27 @@
 
 ## این اسم چه معنایی دارد؟
 
-The name JavaScript is probably the most mistaken and misunderstood programming language name.
+نام JavaScript احتمالاً از اشتباه‌فهم‌ترین و بدفهمیده‌شده‌ترین نام‌ها در میان زبان‌های برنامه‌نویسی است.
 
-Is this language related to Java? Is it only the script form for Java? Is it only for writing scripts and not real programs?
+آیا این زبان به Java مرتبط است؟ آیا فقط نسخه اسکریپتی Java است؟ آیا فقط برای نوشتن اسکریپت‌ها است و نه برنامه‌های واقعی؟
 
-The truth is, the name JavaScript is an artifact of marketing shenanigans. When Brendan Eich first conceived of the language, he code-named it Mocha. Internally at Netscape, the brand LiveScript was used. But when it came time to publicly name the language, "JavaScript" won the vote.
+حقیقت این است که نام JavaScript یک اثر از حقه‌های بازاریابی است. زمانی که Brendan Eich این زبان را برای اولین بار طراحی کرد، آن را Mocha نامگذاری کرد. در داخل شرکت Netscape از نام تجاری LiveScript استفاده می‌شد. اما وقتی زمان نامگذاری عمومی زبان فرا رسید، "JavaScript" برنده شد.
 
-Why? Because this language was originally designed to appeal to an audience of mostly Java programmers, and because the word "script" was popular at the time to refer to lightweight programs. These lightweight "scripts" would be the first ones to embed inside of pages on this new thing called the web!
+چرا؟ زیرا این زبان در ابتدا برای جذب مخاطبی که بیشتر برنامه‌نویسان Java بودند طراحی شده بود، و همچنین به این دلیل که کلمه "script" در آن زمان محبوب بود برای اشاره به برنامه‌های سبک. این "اسکریپت‌های" سبک اولین برنامه‌هایی بودند که در صفحات این چیز جدید به نام وب تعبیه شدند!
 
-In other words, JavaScript was a marketing ploy to try to position this language as a palatable alternative to writing the heavier and more well-known Java of the day. It could just as easily have been called "WebJava," for that matter.
+به عبارت دیگر، JavaScript یک ترفند بازاریابی بود برای قرار دادن این زبان به عنوان جایگزینی مناسب برای نوشتن Java سنگین‌تر و شناخته‌شده‌تر آن زمان. به همان اندازه ممکن بود نام آن "WebJava" باشد.
 
-There are some superficial resemblances between JavaScript's code and Java code. Those similarities don't particularly come from shared development, but from both languages targeting developers with assumed syntax expectations from C (and to an extent, C++).
+شباهت‌های ظاهری بین کد JavaScript و کد Java وجود دارد. این شباهت‌ها نه به خاطر توسعه مشترک بلکه به خاطر اینکه هر دو زبان به برنامه‌نویسان با انتظارات نحوی از زبان C (و تا حدی C++) هدف گرفته‌اند، وجود دارد.
 
-For example, we use the `{` to begin a block of code and the `}` to end that block of code, just like C/C++ and Java. We also use the `;` to punctuate the end of a statement.
+برای مثال، ما از { برای شروع یک بلوک کد و از } برای پایان آن بلوک کد استفاده می‌کنیم، دقیقاً مانند C/C++ و Java. همچنین از ; برای پایان دادن به یک دستور استفاده می‌کنیم.
 
-In some ways, legal relationships run even deeper than the syntax. Oracle (via Sun), the company that still owns and runs Java, also owns the official trademark for the name "JavaScript" (via Netscape). This trademark is almost never enforced, and likely couldn't be at this point.
+در برخی جهات، روابط قانونی حتی عمیق‌تر از نحو (syntax) هستند. شرکت Oracle (از طریق Sun)، که هنوز مالکیت و مدیریت Java را بر عهده دارد، همچنین صاحب علامت تجاری رسمی نام "JavaScript" (از طریق Netscape) است. این علامت تجاری تقریباً هرگز اعمال نمی‌شود و احتمالاً در این مرحله نمی‌توان آن را اعمال کرد.
 
-For these reasons, some have suggested we use JS instead of JavaScript. That is a very common shorthand, if not a good candidate for an official language branding itself. Indeed, these books use JS almost exclusively to refer to the language.
+به همین دلایل، برخی پیشنهاد داده‌اند که به جای JavaScript از JS استفاده کنیم. این یک کوتاه‌نویسی بسیار رایج است، اگرچه شاید بهترین گزینه برای برندینگ رسمی زبان نباشد. در واقع، این کتاب‌ها تقریباً به طور انحصاری از JS برای اشاره به این زبان استفاده می‌کنند.
 
-Further distancing the language from the Oracle-owned trademark, the official name of the language specified by TC39 and formalized by the ECMA standards body is **ECMAScript**. And indeed, since 2016, the official language name has also been suffixed by the revision year; as of this writing, that's ECMAScript 2019, or otherwise abbreviated ES2019.
+برای دورتر کردن زبان از علامت تجاری متعلق به Oracle، نام رسمی این زبان که توسط TC39 مشخص شده و توسط سازمان استاندارد ECMA رسمی شده، ECMAScript است. و در واقع، از سال 2016، نام رسمی زبان نیز با سال تجدیدنظر همراه شده است؛ در زمان نوشتن این متن، این نام ECMAScript 2019 یا به اختصار ES2019 است.
 
-In other words, the JavaScript/JS that runs in your browser or in Node.js, is *an* implementation of the ES2019 standard.
+به عبارت دیگر، JavaScript/JS که در مرورگر شما یا در Node.js اجرا می‌شود، یک پیاده‌سازی از استاندارد ES2019 است.
 
 | نکته: |
 | :--- |
