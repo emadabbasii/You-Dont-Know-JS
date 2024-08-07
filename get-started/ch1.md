@@ -7,17 +7,17 @@
 
 این دیدگاه ارزشمندی در مورد هویت و فرآیند چگونگی سازماندهی و نگهداری JavaScript است؛ همه توسعه‌دهندگان JavaScript باید آن را درک کنند. اگر می‌خواهی JavaScript را بشناسی، این همان راهی است که باید برای برداشتن اولین قدم‌های این سفر شروع کنی.
 
-## About This Book
+## درباره این کتاب
 
-I emphasize the word journey because *knowing JS* is not a destination, it's a direction. No matter how much time you spend with the language, you will always be able to find something else to learn and understand a little better. So don't look at this book as something to rush through for a quick achievement. Instead, patience and persistence are best as you take these first few steps.
+من بر کلمه "سفر" تأکید می‌کنم چون شناختن JavaScript یک مقصد نیست، بلکه یک جهت است. فرقی نمی‌کند چقدر زمان با این زبان صرف کرده‌ای، همیشه می‌توانی چیز جدیدی برای یادگیری و درک بهتر پیدا کنی. بنابراین به این کتاب به عنوان چیزی نگاه نکن که با عجله از آن عبور کنی تا سریع به یک دستاورد برسی. در عوض، صبر و پایداری بهترین راه هستند وقتی که این اولین قدم‌ها را برمی‌داری.
 
-Following this background chapter, the rest of the book lays out a high-level map of what you will find as you dig into and study JS with the YDKJSY books.
+پس از این فصل مقدمه، بقیه کتاب یک نقشه کلی از آنچه هنگام مطالعه JavaScript با کتاب‌های YDKJSY با آن مواجه خواهی شد، ارائه می‌دهد.
 
-In particular, Chapter 4 identifies three main pillars around which the JS language is organized: scope/closures, prototypes/objects, and types/coercion. JS is a broad and sophisticated language, with many features and capabilities. But all of JS is founded on these three foundational pillars.
+به طور خاص، فصل ۴ سه ستون اصلی را معرفی می‌کند که زبان JavaScript حول آن‌ها سازماندهی شده است: scope/closures، prototypes/objects و types/coercion. JavaScript یک زبان گسترده و پیچیده است، با ویژگی‌ها و قابلیت‌های فراوان. اما تمام JavaScript بر روی این سه ستون بنیادی استوار است.
 
-Keep in mind that even though this book is titled "Get Started," it's **not intended as a beginner/intro book**. This book's main job is to get you ready for studying JS deeply throughout the rest of the series; it's written assuming you already have familiarity with JS over at least several months experience before moving on in YDKJSY. So to get the most out of *Get Started*, make sure you spend plenty of time writing JS code to build up your experience.
+به خاطر داشته باش که با وجود اینکه عنوان این کتاب "Get Started" (شروع کنید) است، هدف آن یک کتاب مقدماتی یا آموزشی برای مبتدیان نیست. کار اصلی این کتاب آماده کردن تو برای مطالعه عمیق‌تر JavaScript در طول بقیه مجموعه است؛ این کتاب به‌گونه‌ای نوشته شده که فرض می‌کند تو از قبل با JavaScript آشنایی داری و حداقل چندین ماه تجربه کار با آن را قبل از ادامه با YDKJSY داشته‌ای. بنابراین، برای بهره‌مندی کامل از کتاب "Get Started"، مطمئن شو که زمان زیادی را صرف نوشتن کد JavaScript کنی تا تجربه‌ات را افزایش دهی.
 
-Even if you've already written a lot of JS before, this book should not be skimmed over or skipped; take your time to fully process the material here. **A good start always depends on a solid first step.**
+حتی اگر قبلاً کدهای زیادی با JavaScript نوشته‌ای، نباید این کتاب را سرسری بخوانی یا از آن بگذری؛ وقت بگذار تا به طور کامل مطالب آن را پردازش کنی. یک شروع خوب همیشه به یک قدم اول محکم وابسته است.
 
 ## What's With That Name?
 
